@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /*wrap flex items automaticaly */
+    align-items: center;
+
+}
+ ul li{
+     padding: 2rem;
+     margin: 1rem;
+     background-color: aqua;
+     border-radius: 6px;
+
+}
+p{
+text-align: center;
+}
